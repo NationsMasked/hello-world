@@ -1,2 +1,2 @@
 # hello-world
-This is a project i'm working on
+I made this account to make mods and clients for games like minecraft.
